@@ -1,0 +1,45 @@
+﻿{
+    "b4b8e4e3cf09_Elder_mage_": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "C:/Users/chian/OneDrive/桌面/大三/行動app設計/物件/法師",
+        "Object": {
+            "b4b8e4e3cf09_Elder_mage_": {
+                "Generation": "AccuRig",
+                "Physics": {},
+                "Meshes": {
+                    "geometry_0": {
+                        "Materials": {
+                            "Material_0_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    204.0,
+                                    204.0,
+                                    204.0
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    204.0,
+                                    204.0,
+                                    204.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
