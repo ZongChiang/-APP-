@@ -1,0 +1,45 @@
+﻿{
+    "eae6f8609bfd_A_long_brunette_wom": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "C:/Users/chian/OneDrive/桌面/大三/行動app設計/56c291f15770_eae6f8609bfd_A_long_brunette_wom_fbx",
+        "Object": {
+            "eae6f8609bfd_A_long_brunette_wom": {
+                "Generation": "AccuRig",
+                "Physics": {},
+                "Meshes": {
+                    "mesh": {
+                        "Materials": {
+                            "base_material_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    204.0,
+                                    204.0,
+                                    204.0
+                                ],
+                                "Ambient Color": [
+                                    12.973380088806153,
+                                    12.973380088806153,
+                                    12.973380088806153
+                                ],
+                                "Specular Color": [
+                                    204.0,
+                                    204.0,
+                                    204.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
